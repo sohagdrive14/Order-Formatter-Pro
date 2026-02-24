@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Order Formatter Pro",
+  "description": "A specialized tool to convert tabular order data into a clean, block-based layout for delivery notes, supporting both image OCR and text processing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
